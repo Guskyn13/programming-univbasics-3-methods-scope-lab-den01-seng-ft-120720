@@ -10,7 +10,7 @@ end
 
 def link
   name = "It's Dangerous To Go Alone! Take This."
-  puts NameError
+  puts name
 end
 
 describe "all_phrases" do
