@@ -13,7 +13,7 @@ def link
   puts name
 end
 
-def "all_phrases"
+def all_phrases
   mario
   toadstool
   link
