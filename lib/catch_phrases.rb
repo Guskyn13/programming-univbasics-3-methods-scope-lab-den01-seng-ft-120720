@@ -8,6 +8,11 @@ def toadstool
   puts status
 end
 
+def link
+  name = "Thank You Mario! But Our Princess Is In Another Castle!"
+  puts NameError
+end
+
 describe "all_phrases" do
   it "puts out all of the previous catch phrases" do
     expect{mario}.to output(/It's-a me, Mario!\n/).to_stdout
